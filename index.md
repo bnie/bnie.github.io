@@ -1,9 +1,11 @@
+# Bin Nie
+
 <div class="content">
  <!-- Background -->
  <div class="company">
      <h3 class="clr0">Background</h3>
      <div class="company_details">
-         <p>Bin Nie is a fourth-year Ph.D. candidate in the <a target="_blank" href="http://www.wm.edu/as/computerscience/">Department of Computer Science</a> 
+         <p>Bin Nie got her PHD from <a target="_blank" href="http://www.wm.edu/as/computerscience/">Department of Computer Science</a> 
         at the <a target="_blank" href="http://www.wm.edu/">College of William and Mary</a>, under the supervision of <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> 
         Prof. Evgenia Smirni</a>.<class="half"/>
         Before joining W&M, she received her bachelor degree in Software Engineering from <a target="_blank" href="http://www.xmu.edu.cn/">Xiamen University</a> in 2012,
