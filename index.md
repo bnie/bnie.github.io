@@ -3,12 +3,11 @@
 <div class="content">
  <!-- Background -->
  <div class="company">
-     <h3 class="clr0">Background</h3>
+     <h2 class="clr0">Background</h2>
      <div class="company_details">
          <p>Bin Nie got her PHD from <a target="_blank" href="http://www.wm.edu/as/computerscience/">Department of Computer Science</a> 
         at the <a target="_blank" href="http://www.wm.edu/">College of William and Mary</a>, under the supervision of <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> 
-        Prof. Evgenia Smirni</a>.<class="half"/>
-        Before joining W&M, she received her bachelor degree in Software Engineering from <a target="_blank" href="http://www.xmu.edu.cn/">Xiamen University</a> in 2012,
+        Prof. Evgenia Smirni</a>. Before joining W&M, she received her bachelor degree in Software Engineering from <a target="_blank" href="http://www.xmu.edu.cn/">Xiamen University</a> in 2012,
         and master degree in Computer Science from <a target="_blank" href="http://www.fordham.edu/site/index.php">Fordham University</a> in 2014. 
         Her research interests include GPGPU Reliability, Machine Learning, Time Series Analysis, Data Analysis, 
         Heterogeneous System Logs Analysis (HPC, Data Centers, IT systems), Natural Language Processing, and Performance Advertising.
@@ -18,7 +17,7 @@
  
  <!-- Skills -->
  <div class="skills">
-     <h3 class="clr0">Skills</h3>
+     <h2 class="clr0">Skills</h2>
      <div class="skill_list">
              <ul>
                 <li><b>Programming Languages:&emsp;  </b>Python, Java, C/C++, SQL, Matlab, C#, Shell, SQL</li>
@@ -30,7 +29,7 @@
  
  <!-- Professional Experience -->
  <div class="skills">
-     <h3 class="clr0">Professional Experience</h3>
+     <h2 class="clr0">Professional Experience</h2>
      <div class="skill_list">
              <ul>
                 <li>2018/5 - 2018/8 <tab1/> Research Intern, NEC Labs America <span>Princeton, NJ</span></li>                   
@@ -46,48 +45,48 @@
  
  <!-- Publications -->
  <div class="education">
-     <h3 class="clr0" id="pub">Publications</h3>
+     <h2 class="clr0" id="pub">Publications</h2>
      <div class="education_details">
-         <h4>Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications<span> [<a target="_blank" href="publications/2018MICRO.pdf">PDF</a>]</span></h4>
+         <h3>Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications<span> [<a target="_blank" href="publications/2018MICRO.pdf">PDF</a>]</span></h3>
          <p><b>Bin Nie</b>, Lishan Yang, Adwait Jog, and Evgenia Smirni</p>
          <p>In the Proceedings of 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018</p>
          <p class="cmpny2">(Acceptance rate ≈ 21%) (to appear)</p>
      </div>
      <div class="education_details">
-         <h4>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System<span> [<a target="_blank" href="publications/2018DSN.pdf">PDF</a>]</span></h4>
+         <h3>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System<span> [<a target="_blank" href="publications/2018DSN.pdf">PDF</a>]</span></h3>
          <p><b>Bin Nie</b>, Ji Xue, Saurabh Gupta, Tirthak Patel, Christian Engelmann, Evgenia Smirni, and Devesh Tiwari</p>
          <p>In the 48th International Conference on Dependable Systems and Networks (DSN), Luxembourg City, Luxembourg, June 2018</p>
          <p class="cmpny2">(Acceptance rate ≈ 25%)</p>
      </div>
      <div class="education_details">
-         <h4>Fill-in the Gaps: Spatial-Temporal Models for Missing Data
-            <span>[<a target="_blank" href="publications/2017CNSM.pdf">PDF</a>]</span></h4>
+         <h3>Fill-in the Gaps: Spatial-Temporal Models for Missing Data
+            <span>[<a target="_blank" href="publications/2017CNSM.pdf">PDF</a>]</span></h3>
          <p>Ji Xue, <b>Bin Nie</b>, and Evgenia Smirni</p>
          <p>In the 13th International Conference on Network and Service Management (CNSM), Tokyo, Japan, November 2017</p>
          <p class="cmpny2">(Acceptance rate ≈ 17.6%)</p>
      </div>
      <div class="education_details">
-         <h4>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities
-            <span>[<a target="_blank" href="publications/2017MASCOTS.pdf">PDF</a>]</span></h4>
+         <h3>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities
+            <span>[<a target="_blank" href="publications/2017MASCOTS.pdf">PDF</a>]</span></h3>
          <p><b>Bin Nie</b>, Ji Xue, Saurabh Gupta, Christian Engelmann, Evgenia Smirni, and Devesh Tiwari</p>
          <p>In the 25th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), Banff, AB, Canada, September 2017</p>
          <p class="cmpny2">(Acceptance rate ≈ 30.9%)</p>
      </div>
      <div class="education_details">
-         <h4>A Large-Scale Study of Soft-Errors on GPUs in the Field
-            <span>[<a target="_blank" href="publications/2016_HPCA_GPU_Soft_Errors.pdf">PDF</a>]</span></h4>
+         <h3>A Large-Scale Study of Soft-Errors on GPUs in the Field
+            <span>[<a target="_blank" href="publications/2016_HPCA_GPU_Soft_Errors.pdf">PDF</a>]</span></h3>
          <p><b>Bin Nie</b>, Devesh Tiwari, Saurabh Gupta, Evgenia Smirni, and James H. Rogers</p>
          <p>In the 22nd IEEE International Symposium on High Performance Computer Architecture (HPCA), Barcelona, Spain, March 2016</p>
          <p class="cmpny2">(Acceptance rate ≈ 22%)</p>
      </div>
      <div class="education_details">
-         <h4>Leveraging Online Social Friendship to Improve Data Swarming Performance</h4>
+         <h3>Leveraging Online Social Friendship to Improve Data Swarming Performance</h3>
          <p>Honggang Zhang, Benyuan Liu, <b>Bin Nie</b>, Zhiyong Xu, Xiayin Weng, and Chao Yu</p>
          <p class="cmpny2">Computer Networks, 2014</p>
      </div>
      <div class="education_details">
-         <h4>Social Interaction Based Video Recommendation: Recommending YouTube Videos to Facebook Users
-            <span>[<a target="_blank" href="publications/2014_GI_Social_Recommend.pdf">PDF</a>]</span></h4>
+         <h3>Social Interaction Based Video Recommendation: Recommending YouTube Videos to Facebook Users
+            <span>[<a target="_blank" href="publications/2014_GI_Social_Recommend.pdf">PDF</a>]</span></h3>
          <p><b>Bin Nie</b>, Honggang Zhang, and Yong Liu</p>
          <p class="cmpny3">In 2014 Proceedings IEEE INFOCOM Workshops, Toronto, ON, Canada, April 2014.</p>
          <!-- <p class="cmpny3">(Acceptance rate ≈ 38%)</p> -->
@@ -96,10 +95,10 @@
  
  <!-- Research Projects -->
  <div class="project">
-     <h3 class="clr0" id="proj">Research Projects</h3>
+     <h2 class="clr0" id="proj">Research Projects</h2>
      <div class="project_details">
-         <h4>College of William and Mary
-            <span>August 2015 - Present</span></h4>
+         <h3>College of William and Mary
+            <span>August 2015 - Present</span></h3>
          <h6>Research Assistant<h6>
          <h6 class="cmpny4">Advisor: <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> Prof. Evgenia Smirni</a></h6>
          <h5>Project #1:<tab3/>
@@ -119,8 +118,8 @@
         </ul>
      </div>
      <div class="project_details">
-         <h4>System Research at NEC Labs America
-            <span>May 2018 - August 2018</span></h4>
+         <h3>System Research at NEC Labs America
+            <span>May 2018 - August 2018</span></h3>
          <h6>Research Intern<h6>
          <h6 class="cmpny4">Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a></h6>
          <ul class="cmpny1">
@@ -130,8 +129,8 @@
         </ul>
      </div>
      <div class="project_details">
-         <h4>System Research at NEC Labs America
-            <span>May 2017 - August 2017</span></h4>
+         <h3>System Research at NEC Labs America
+            <span>May 2017 - August 2017</span></h3>
          <h6>Research Intern<h6>
          <h6 class="cmpny4">Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a> and <a target="_blank" href="http://www.nec-labs.com/~huizhang/">Dr. Hui Zhang</a></h6>
          <ul class="cmpny1">
@@ -140,8 +139,8 @@
         </ul>
      </div>
      <div class="project_details">
-         <h4>Analytics Lab at Hewlett Packard Enterprise (HPE)
-            <span>May 2016 - August 2016</span></h4>
+         <h3>Analytics Lab at Hewlett Packard Enterprise (HPE)
+            <span>May 2016 - August 2016</span></h3>
          <h6>Research Intern<h6>
          <h6 class="cmpny4">Mentor: <a target="_blank" href="http://alumni.cs.ucr.edu/~mkafai/">Dr. Mehran Kafai</a> and <a target="_blank" href="https://www.linkedin.com/in/kave-eshghi-0800204">Dr. Kave Eshghi</a></h6>
          <ul class="cmpny1">
@@ -150,8 +149,8 @@
         </ul>
      </div>
      <div class="project_details">
-         <h4>Oak Ridge National Laboratory (ORNL)
-            <span>May 2015 - August 2015</span></h4>
+         <h3>Oak Ridge National Laboratory (ORNL)
+            <span>May 2015 - August 2015</span></h3>
          <h6>Research Intern<h6>
          <h6 class="cmpny4">Mentor: <a target="_blank" href="http://www.ece.neu.edu/people/tiwari-devesh">Dr. Devesh Tiwari</a></h6>
          <ul class="cmpny1">
@@ -163,8 +162,8 @@
         </ul>
      </div>
      <div class="project_details">
-         <h4>Fordham University
-            <span>August 2012 - May 2014</span></h4>
+         <h3>Fordham University
+            <span>August 2012 - May 2014</span></h3>
          <h6>Research Assistant<h6>
          <h6 class="cmpny4">Advisor: <a target="_blank" href="http://eng.umb.edu/~hzhang/">Prof. Honggang Zhang</a></h6>
          <ul class="cmpny2">
@@ -177,7 +176,7 @@
  
  <!-- TA Experience -->
  <div class="skills">
-     <h3 class="clr0">TA Experience</h3>
+     <h2 class="clr0">TA Experience</h2>
      <div class="skill_list">
              <ul>                   
                 <li>CSCI420 Human Computer Interface Design <tab3/> --- <tab3/> Spring 2016</li>
@@ -190,7 +189,7 @@
  
  <!-- Awards -->
  <div class="skills">
-     <h3 class="clr0" id="awd">Awards</h3>
+     <h2 class="clr0" id="awd">Awards</h2>
      <div class="skill_list">
              <ul>
                 <li>Student Travel Grant for DSN 2018, awarded by IEEE <tab3/> --- <tab3/> 2017</li>
