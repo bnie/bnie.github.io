@@ -1,61 +1,8 @@
 <html>
 <head>
-<title>Welcome to Bin's Homepage</title>
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-<!-- jQuery (necessary JavaScript plugins) -->
-<!-- <script src="js/jquery.min.js"></script> -->
-<!-- Custom Theme files -->
-<link href="css/dashboard.css" rel="stylesheet">
-<link href="css/style.css" rel='stylesheet' type='text/css' />
-
-<!-- Custom Theme files -->
-<!--//theme-style-->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!--
-<meta name="keywords" content="Curriculum Vitae Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
--->
-<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
-<!-- start menu -->
-  
+    <title>Welcome to Bin's Homepage</title>  
 </head>
-<body>
-<!-- header -->
-<div class="col-sm-3 col-md-2 sidebar">
-         <div class="sidebar_top">
-             <!-- <h1>Bin Nie</h1> -->
-             <h1> </h1>
-             <img src="images/portrait.jpg" alt=""/>
-         </div>
-        <div class="details">
-             <h2>Bin Nie</h2>
-             <h4>Ph.D. Candidate</h4>
-             <p>Department of Computer Science <br/>
-             College of William and Mary</p> 
-             <h3>EMAIL</h3>
-             <p>bnie [at] cs.wm.edu</p>
-             <address>
-                
-             <h3>ADDRESS</h3>
-             <span>McGlothlin-Street Hall,</span>
-             <span>Williamsburg, VA</span>
-             </address>
-             <h3>CV</h3>
-             <p>
-                <a target="_blank" href="cv-BinNie.pdf">Check it out!</a>
-                <br/>
-                <a href="http://www.linkedin.com/in/bnie/" target="_blank"><img style="border:none;padding:0em;height:33px;width:75px;" src="images/linkedin_button.png"></a>
-            </p>
-        </div>
-        <div class="clearfix"></div>
-</div>
-<!--
-<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
-<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
--->         
+<body>        
 <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
      <div class="content">
          <div class="details_header">
