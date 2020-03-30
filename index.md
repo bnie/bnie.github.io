@@ -16,12 +16,13 @@ Heterogeneous System Logs Analysis (HPC, Data Centers, IT systems), Natural Lang
  
 
 ## Professional Experience
-- 2018/5 - 2018/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>                
-- 2017/5 - 2017/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>
-- 2016/5 - 2016/8 Research Intern, Hewlett Packard Enterprise <small>Palo Alto, CA</small>
-- 2015/5 - 2015/8 Research Intern, Oak Ridge National Laboratory <small>Oak Ridge, TN</small>
-- 2014/8 - 2019/5 Research Assistant, College of William and Mary <small>Williamsburg, VA</small>
-- 2012/8 - 2014/5 Research Assistant, Fordham University <small>New York, NY</small>
+- 2019/6 - present: Software Engineer, Google <small>Mountain View, CA</small>
+- 2018/5 - 2018/8: Research Intern, NEC Labs America <small>Princeton, NJ</small>                
+- 2017/5 - 2017/8: Research Intern, NEC Labs America <small>Princeton, NJ</small>
+- 2016/5 - 2016/8: Research Intern, Hewlett Packard Enterprise <small>Palo Alto, CA</small>
+- 2015/5 - 2015/8: Research Intern, Oak Ridge National Laboratory <small>Oak Ridge, TN</small>
+- 2014/8 - 2019/5: Research Assistant, College of William and Mary <small>Williamsburg, VA</small>
+- 2012/8 - 2014/5: Research Assistant, Fordham University <small>New York, NY</small>
 
 
 ## Publications
@@ -74,7 +75,7 @@ In 2014 Proceedings IEEE INFOCOM Workshops, Toronto, ON, Canada, April 2014
 
 (Acceptance rate ≈ 38%)
      
-## Research Projects
+## Education
 
 ### Research Assistant at College of William and Mary <small>(August 2015 - May 2019)</small>
 Advisor: [Prof. Evgenia Smirni](http://www.cs.wm.edu/~esmirni/)
@@ -88,6 +89,14 @@ Advisor: [Prof. Evgenia Smirni](http://www.cs.wm.edu/~esmirni/)
 - Developed ML-based prediction models for effective reliability prediction
 - Designed a similarity-based sample reduction model to address the imbalanced data set problem
 
+### Research Assistant, Fordham University (August 2012 - May 2014)
+Advisor: [Prof. Honggang Zhang](http://eng.umb.edu/~hzhang/)
+- Analyzed how social interactions on Facebook relate to video popularity on YouTube
+- Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%
+- Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules
+
+
+## Internships
 
 ### Research Intern at System Research, NEC Labs America <small>(May 2018 - August 2018)</small>
 Mentor: [Dr. Jianwu Xu](http://www.nec-labs.com/jianwu-xu/)
@@ -108,18 +117,11 @@ Mentor: [Dr. Mehran Kafai](http://alumni.cs.ucr.edu/~mkafai/) and [Dr. Kave Eshg
 
 ### Research Intern at Oak Ridge National Laboratory (ORNL) <small>(May 2015 - August 2015)</small>
 Mentor: [Dr. Devesh Tiwari](http://www.ece.neu.edu/people/tiwari-devesh)
-
-- Led a large-scale characterization study of soft-errors on GPU nodes on the [Titan](https://www.olcf.ornl.gov/titan/)* supercomputer
+- Led a large-scale characterization study of soft-errors on GPU nodes on the [Titan](https://www.olcf.ornl.gov/titan/) supercomputer
 - Investigated performance on soft-error-affected and error-free GPU nodes
 - Studied temporally-varying user/application behaviors and their indications on errors
 - Devised machine learning models for GPU failure prediction on the Titan
-<small>* Titan supercomputer, hosted in ORNL, is the world's second fastest supercomputer (as of Nov 2015 [Top500 Supercomputer rankings](http://www.top500.org/lists/2015/11/)).</small>
 
- ### Research Assistant, Fordham University (August 2012 - May 2014)
- Advisor: [Prof. Honggang Zhang](http://eng.umb.edu/~hzhang/)
-    - Analyzed how social interactions on Facebook relate to video popularity on YouTube
-    - Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%
-    - Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules
  
 ## Awards
 - Student Travel Grant for DSN 2018, awarded by IEEE --- 2017
