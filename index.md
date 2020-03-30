@@ -97,8 +97,8 @@
  <div class="project">
      <h2 class="clr0" id="proj">Research Projects</h2>
      <div class="project_details">
-         <h3>College of William and Mary
-         <p>Research Assistant (August 2015 - Present) Advisor: <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> Prof. Evgenia Smirni</a></p>
+         <h3>Research Assistant at College of William and Mary (August 2015 - Present)
+         <p>Advisor: <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> Prof. Evgenia Smirni</a></p>
          <h4>Project #1:<tab3/>
             <span>GPGPU Reliability Analysis at the Application Level</span>
          </h4>
