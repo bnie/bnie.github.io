@@ -16,7 +16,7 @@ Heterogeneous System Logs Analysis (HPC, Data Centers, IT systems), Natural Lang
  
 
 ## Professional Experience
--  2018/5 - 2018/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>                
+- 2018/5 - 2018/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>                
 - 2017/5 - 2017/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>
 - 2016/5 - 2016/8 Research Intern, Hewlett Packard Enterprise <small>Palo Alto, CA</small>
 - 2015/5 - 2015/8 Research Intern, Oak Ridge National Laboratory <small>Oak Ridge, TN</small>
@@ -72,81 +72,64 @@ Computer Networks, 2014
      
 In 2014 Proceedings IEEE INFOCOM Workshops, Toronto, ON, Canada, April 2014
 
-(Acceptance rate ≈ 38%
+(Acceptance rate ≈ 38%)
      
- <!-- Research Projects -->
-<h2 class="clr0" id="proj">Research Projects</h2>
+## Research Projects
 
- <h3>Research Assistant at College of William and Mary (August 2015 - Present)
- <p>Advisor: <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> Prof. Evgenia Smirni</a></p>
- <h4>Project #1:<tab3/>
-    <span>GPGPU Reliability Analysis at the Application Level</span>
- </h4>
- <ul>  <!-- If not the last project, remove class=cmpny1 -->
-    <li>Built an error-injection model to investigate error resilience features for GPGPU applications</li> 
-    <li>Reduced the number of error sites by more than 90% per error-injection campaign for fast and accurate reliability analysis</li>
-</ul>
-<h4>Project #2:<tab3/>
-    <span>GPGPU Reliability Analysis at the System Level</span>
-</h4>
-<ul class="skill_list">  <!-- If not the last project, remove class=cmpny1 -->
-    <li>Analyzed the impact of temperature/power on GPU single-bit errors (SBEs) in the Titan supercomputer</li>    
-    <li>Developed ML-based prediction models for effective reliability prediction</li>
-    <li>Designed a similarity-based sample reduction model to address the imbalanced data set problem</li>
-</ul>
+### Research Assistant at College of William and Mary <small>(August 2015 - May 2019)</small>
+Advisor: [Prof. Evgenia Smirni](http://www.cs.wm.edu/~esmirni/)
 
- <h3>Research Intern at System Research, NEC Labs America (May 2018 - August 2018)
- <p>Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a></p>
-    * Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series
-    * Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology
-    * Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships
+#### Project #1: GPGPU Reliability Analysis at the Application Level
+- Built an error-injection model to investigate error resilience features for GPGPU applications
+- Reduced the number of error sites by more than 90% per error-injection campaign for fast and accurate reliability analysis
 
- <h3>Research Intern at System Research, NEC Labs America (May 2017 - August 2017)
-    <p>Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a> and <a target="_blank" href="http://www.nec-labs.com/~huizhang/">Dr. Hui Zhang</a></p>
- <ul class="skill_list">
-    <li>Designed a predictive analytics framework for a large scale, complex cloud computing system based on a LSTM model and natural language processing for heterogeneous system logs</li>
-    <li>Built a unique local linear surrogate model to predict system failure and associated causalities for interpreting black box AI results</li>
-</ul>
+#### Project #2: GPGPU Reliability Analysis at the System Level
+- Analyzed the impact of temperature/power on GPU single-bit errors (SBEs) in the Titan supercomputer    
+- Developed ML-based prediction models for effective reliability prediction
+- Designed a similarity-based sample reduction model to address the imbalanced data set problem
 
- <h3>Research Intern at Analytics Lab, Hewlett Packard Enterprise (HPE) (May 2016 - August 2016)
-    <p>Mentor: <a target="_blank" href="http://alumni.cs.ucr.edu/~mkafai/">Dr. Mehran Kafai</a> and <a target="_blank" href="https://www.linkedin.com/in/kave-eshghi-0800204">Dr. Kave Eshghi</a></p>
- <ul class="skill_list">
-    <li>Evaluated the effects of various feature engineering and machine learning models for click-through rate prediction</li>                 
-    <li>Developed a linear model utilizing CROHash and Logistic Regression on TF-IDF weighted categorical data</li>
-</ul>
 
- <h3>Research Intern at Oak Ridge National Laboratory (ORNL) (May 2015 - August 2015)
-    <p>Mentor: <a target="_blank" href="http://www.ece.neu.edu/people/tiwari-devesh">Dr. Devesh Tiwari</a></p>
- <ul class="skill_list">
-    <li>Led a large-scale characterization study of soft-errors on GPU nodes on the <a target="_blank" href="https://www.olcf.ornl.gov/titan/">Titan</a>* supercomputer</li>
-    <li>Investigated performance on soft-error-affected and error-free GPU nodes</li>
-    <li>Studied temporally-varying user/application behaviors and their indications on errors</li>
-    <li>Devised machine learning models for GPU failure prediction on the Titan</li>
-    <p>* Titan supercomputer, hosted in ORNL, is the world's second fastest supercomputer (as of Nov 2015 <a target="_blank" href="http://www.top500.org/lists/2015/11/">Top500 Supercomputer rankings</a>).</p>
-</ul>
+### Research Intern at System Research, NEC Labs America <small>(May 2018 - August 2018)</small>
+Mentor: [Dr. Jianwu Xu](http://www.nec-labs.com/jianwu-xu/)
+- Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series
+- Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology
+- Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships
 
- <h3>Research Assistant, Fordham University (August 2012 - May 2014)
-    <p>Advisor: <a target="_blank" href="http://eng.umb.edu/~hzhang/">Prof. Honggang Zhang</a></p>
- <ul class="skill_list">
-    <li>Analyzed how social interactions on Facebook relate to video popularity on YouTube</li>
-    <li>Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%</li>
-    <li>Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules</li>
-</ul>
+### Research Intern at System Research, NEC Labs America <small>(May 2017 - August 2017)</small>
+Mentor: [Dr. Jianwu Xu](http://www.nec-labs.com/jianwu-xu/) and [Dr. Hui Zhang](http://www.nec-labs.com/~huizhang/)
+- Designed a predictive analytics framework for a large scale, complex cloud computing system based on a LSTM model and natural language processing for heterogeneous system logs
+- Built a unique local linear surrogate model to predict system failure and associated causalities for interpreting black box AI results
+
+### Research Intern at Analytics Lab, Hewlett Packard Enterprise (HPE) <small>(May 2016 - August 2016)</small>
+Mentor: [Dr. Mehran Kafai](http://alumni.cs.ucr.edu/~mkafai/) and [Dr. Kave Eshghi](https://www.linkedin.com/in/kave-eshghi-0800204)
+- Evaluated the effects of various feature engineering and machine learning models for click-through rate prediction                 
+- Developed a linear model utilizing CROHash and Logistic Regression on TF-IDF weighted categorical data
+
+
+### Research Intern at Oak Ridge National Laboratory (ORNL) <small>(May 2015 - August 2015)</small>
+Mentor: [Dr. Devesh Tiwari](http://www.ece.neu.edu/people/tiwari-devesh)
+
+- Led a large-scale characterization study of soft-errors on GPU nodes on the [Titan](https://www.olcf.ornl.gov/titan/)* supercomputer
+- Investigated performance on soft-error-affected and error-free GPU nodes
+- Studied temporally-varying user/application behaviors and their indications on errors
+- Devised machine learning models for GPU failure prediction on the Titan
+<small>* Titan supercomputer, hosted in ORNL, is the world's second fastest supercomputer (as of Nov 2015 [Top500 Supercomputer rankings](http://www.top500.org/lists/2015/11/)).</small>
+
+ ### Research Assistant, Fordham University (August 2012 - May 2014)
+ Advisor: [Prof. Honggang Zhang](http://eng.umb.edu/~hzhang/)
+    - Analyzed how social interactions on Facebook relate to video popularity on YouTube
+    - Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%
+    - Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules
  
- <!-- Awards -->
- <h2 class="clr0" id="awd">Awards</h2>
- <div class="skill_list">
-         <ul>
-            <li>Student Travel Grant for DSN 2018, awarded by IEEE <tab3/> --- <tab3/> 2017</li>
-            <li>Student Travel Grant for CNSM 2017, awarded by IFIP <tab3/> --- <tab3/> 2017</li>                   
-            <li>Student Travel Grant for HPCA 2016, awarded by IEEE <tab3/> --- <tab3/> 2016</li>
-            <li>OGSR/Graduate Student Association Conference Funds, awarded by College of William and Mary <tab3/> --- <tab3/> 2016</li>
-            <li>Conference Travel Fund Award, awarded by College of William and Mary <tab3/> --- <tab3/> 2016</li>
-            <li>GHC (Grace Hopper Celebration of Women in Computing) Scholarship <tab3/> --- <tab3/> 2015</li>
-            <li>Graduate Studies Advisory Board Fellowship, awarded by W&M Graduate Studies Advisory Board <tab3/> --- <tab3/> 2014, 2015</li>
-            <li>National Scholarship, awarded to top 2% undergraduate students by Ministry of Education of China <tab3/> --- <tab3/> 2010</li>
-         </ul>
-     <div class="clearfix"></div>
- </div>
+## Awards
+- Student Travel Grant for DSN 2018, awarded by IEEE --- 2017
+- Student Travel Grant for CNSM 2017, awarded by IFIP --- 2017                   
+- Student Travel Grant for HPCA 2016, awarded by IEEE --- 2016
+- OGSR/Graduate Student Association Conference Funds, awarded by College of William and Mary --- 2016
+- Conference Travel Fund Award, awarded by College of William and Mary --- 2016
+- GHC (Grace Hopper Celebration of Women in Computing) Scholarship --- 2015
+- Graduate Studies Advisory Board Fellowship, awarded by W&M Graduate Studies Advisory Board --- 2014, 2015
+- National Scholarship, awarded to top 2% undergraduate students by Ministry of Education of China --- 2010
  
- <p>Last updated in March, 2020</p>
+
+<small>Last updated in March, 2020</small>
