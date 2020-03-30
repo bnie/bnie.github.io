@@ -115,11 +115,9 @@
 
  <h3>Research Intern at System Research, NEC Labs America (May 2018 - August 2018)
  <p>Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a></p>
- <ul class="skill_list">
-    <li>Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series</li>
-    <li>Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology</li>
-    <li>Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships</li>
-</ul>
+    * Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series
+    * Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology
+    * Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships
 
  <h3>Research Intern at System Research, NEC Labs America (May 2017 - August 2017)
     <p>Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a> and <a target="_blank" href="http://www.nec-labs.com/~huizhang/">Dr. Hui Zhang</a></p>
