@@ -94,83 +94,75 @@
  </div>
  
  <!-- Research Projects -->
- <div class="project">
-     <h2 class="clr0" id="proj">Research Projects</h2>
-     <div class="project_details">
-         <h3>Research Assistant at College of William and Mary (August 2015 - Present)
-         <p>Advisor: <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> Prof. Evgenia Smirni</a></p>
-         <h4>Project #1:<tab3/>
-            <span>GPGPU Reliability Analysis at the Application Level</span>
-         </h4>
-         <ul>  <!-- If not the last project, remove class=cmpny1 -->
-            <li>Built an error-injection model to investigate error resilience features for GPGPU applications</li> 
-            <li>Reduced the number of error sites by more than 90% per error-injection campaign for fast and accurate reliability analysis</li>
-        </ul>
-        <h4 class="cmpny5">Project #2:<tab3/>
-            <span>GPGPU Reliability Analysis at the System Level</span>
-        </h4>
-        <ul class="cmpny1">  <!-- If not the last project, remove class=cmpny1 -->
-            <li>Analyzed the impact of temperature/power on GPU single-bit errors (SBEs) in the Titan supercomputer</li>    
-            <li>Developed ML-based prediction models for effective reliability prediction</li>
-            <li>Designed a similarity-based sample reduction model to address the imbalanced data set problem</li>
-        </ul>
-     </div>
-     <div class="project_details">
-         <h3>System Research at NEC Labs America
-            <span>May 2018 - August 2018</span></h3>
-         <h5>Research Intern<h5>
-         <h5 class="cmpny4">Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a></h5>
-         <ul class="cmpny1">
-            <li>Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series</li>
-            <li>Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology</li>
-            <li>Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships</li>
-        </ul>
-     </div>
-     <div class="project_details">
-         <h3>System Research at NEC Labs America
-            <span>May 2017 - August 2017</span></h3>
-         <h5>Research Intern<h5>
-         <h5 class="cmpny4">Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a> and <a target="_blank" href="http://www.nec-labs.com/~huizhang/">Dr. Hui Zhang</a></h5>
-         <ul class="cmpny1">
-            <li>Designed a predictive analytics framework for a large scale, complex cloud computing system based on a LSTM model and natural language processing for heterogeneous system logs</li>
-            <li>Built a unique local linear surrogate model to predict system failure and associated causalities for interpreting black box AI results</li>
-        </ul>
-     </div>
-     <div class="project_details">
-         <h3>Analytics Lab at Hewlett Packard Enterprise (HPE)
-            <span>May 2016 - August 2016</span></h3>
-         <h5>Research Intern<h5>
-         <h5 class="cmpny4">Mentor: <a target="_blank" href="http://alumni.cs.ucr.edu/~mkafai/">Dr. Mehran Kafai</a> and <a target="_blank" href="https://www.linkedin.com/in/kave-eshghi-0800204">Dr. Kave Eshghi</a></h5>
-         <ul class="cmpny1">
-            <li>Evaluated the effects of various feature engineering and machine learning models for click-through rate prediction</li>                 
-            <li>Developed a linear model utilizing CROHash and Logistic Regression on TF-IDF weighted categorical data</li>
-        </ul>
-     </div>
-     <div class="project_details">
-         <h3>Oak Ridge National Laboratory (ORNL)
-            <span>May 2015 - August 2015</span></h3>
-         <h5>Research Intern<h5>
-         <h5 class="cmpny4">Mentor: <a target="_blank" href="http://www.ece.neu.edu/people/tiwari-devesh">Dr. Devesh Tiwari</a></h5>
-         <ul class="cmpny1">
-            <li>Led a large-scale characterization study of soft-errors on GPU nodes on the <a target="_blank" href="https://www.olcf.ornl.gov/titan/">Titan</a>* supercomputer</li>
-            <li>Investigated performance on soft-error-affected and error-free GPU nodes</li>
-            <li>Studied temporally-varying user/application behaviors and their indications on errors</li>
-            <li>Devised machine learning models for GPU failure prediction on the Titan</li>
-            <p>* Titan supercomputer, hosted in ORNL, is the world's second fastest supercomputer (as of Nov 2015 <a target="_blank" href="http://www.top500.org/lists/2015/11/">Top500 Supercomputer rankings</a>).</p>
-        </ul>
-     </div>
-     <div class="project_details">
-         <h3>Fordham University
-            <span>August 2012 - May 2014</span></h3>
-         <h5>Research Assistant<h5>
-         <h5 class="cmpny4">Advisor: <a target="_blank" href="http://eng.umb.edu/~hzhang/">Prof. Honggang Zhang</a></h5>
-         <ul class="cmpny2">
-            <li>Analyzed how social interactions on Facebook relate to video popularity on YouTube</li>
-            <li>Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%</li>
-            <li>Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules</li>
-        </ul>
-     </div>
- </div>
+<h2 class="clr0" id="proj">Research Projects</h2>
+
+ <h3>Research Assistant at College of William and Mary (August 2015 - Present)
+ <p>Advisor: <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> Prof. Evgenia Smirni</a></p>
+ <h4>Project #1:<tab3/>
+    <span>GPGPU Reliability Analysis at the Application Level</span>
+ </h4>
+ <ul>  <!-- If not the last project, remove class=cmpny1 -->
+    <li>Built an error-injection model to investigate error resilience features for GPGPU applications</li> 
+    <li>Reduced the number of error sites by more than 90% per error-injection campaign for fast and accurate reliability analysis</li>
+</ul>
+<h4 class="cmpny5">Project #2:<tab3/>
+    <span>GPGPU Reliability Analysis at the System Level</span>
+</h4>
+<ul class="cmpny1">  <!-- If not the last project, remove class=cmpny1 -->
+    <li>Analyzed the impact of temperature/power on GPU single-bit errors (SBEs) in the Titan supercomputer</li>    
+    <li>Developed ML-based prediction models for effective reliability prediction</li>
+    <li>Designed a similarity-based sample reduction model to address the imbalanced data set problem</li>
+</ul>
+
+ <h3>System Research at NEC Labs America
+    <span>May 2018 - August 2018</span></h3>
+ <h5>Research Intern<h5>
+ <h5 class="cmpny4">Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a></h5>
+ <ul class="cmpny1">
+    <li>Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series</li>
+    <li>Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology</li>
+    <li>Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships</li>
+</ul>
+
+ <h3>System Research at NEC Labs America
+    <span>May 2017 - August 2017</span></h3>
+ <h5>Research Intern<h5>
+ <h5 class="cmpny4">Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a> and <a target="_blank" href="http://www.nec-labs.com/~huizhang/">Dr. Hui Zhang</a></h5>
+ <ul class="cmpny1">
+    <li>Designed a predictive analytics framework for a large scale, complex cloud computing system based on a LSTM model and natural language processing for heterogeneous system logs</li>
+    <li>Built a unique local linear surrogate model to predict system failure and associated causalities for interpreting black box AI results</li>
+</ul>
+
+ <h3>Analytics Lab at Hewlett Packard Enterprise (HPE)
+    <span>May 2016 - August 2016</span></h3>
+ <h5>Research Intern<h5>
+ <h5 class="cmpny4">Mentor: <a target="_blank" href="http://alumni.cs.ucr.edu/~mkafai/">Dr. Mehran Kafai</a> and <a target="_blank" href="https://www.linkedin.com/in/kave-eshghi-0800204">Dr. Kave Eshghi</a></h5>
+ <ul class="cmpny1">
+    <li>Evaluated the effects of various feature engineering and machine learning models for click-through rate prediction</li>                 
+    <li>Developed a linear model utilizing CROHash and Logistic Regression on TF-IDF weighted categorical data</li>
+</ul>
+
+ <h3>Oak Ridge National Laboratory (ORNL)
+    <span>May 2015 - August 2015</span></h3>
+ <h5>Research Intern<h5>
+ <h5 class="cmpny4">Mentor: <a target="_blank" href="http://www.ece.neu.edu/people/tiwari-devesh">Dr. Devesh Tiwari</a></h5>
+ <ul class="cmpny1">
+    <li>Led a large-scale characterization study of soft-errors on GPU nodes on the <a target="_blank" href="https://www.olcf.ornl.gov/titan/">Titan</a>* supercomputer</li>
+    <li>Investigated performance on soft-error-affected and error-free GPU nodes</li>
+    <li>Studied temporally-varying user/application behaviors and their indications on errors</li>
+    <li>Devised machine learning models for GPU failure prediction on the Titan</li>
+    <p>* Titan supercomputer, hosted in ORNL, is the world's second fastest supercomputer (as of Nov 2015 <a target="_blank" href="http://www.top500.org/lists/2015/11/">Top500 Supercomputer rankings</a>).</p>
+</ul>
+
+ <h3>Fordham University
+    <span>August 2012 - May 2014</span></h3>
+ <h5>Research Assistant<h5>
+ <h5 class="cmpny4">Advisor: <a target="_blank" href="http://eng.umb.edu/~hzhang/">Prof. Honggang Zhang</a></h5>
+ <ul class="cmpny2">
+    <li>Analyzed how social interactions on Facebook relate to video popularity on YouTube</li>
+    <li>Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%</li>
+    <li>Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules</li>
+</ul>
  
  <!-- TA Experience -->
  <div class="skills">
