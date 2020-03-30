@@ -1,97 +1,79 @@
 # Bin Nie
 
- <!-- Background -->
- <div class="company">
-     <h2 class="clr0">Background</h2>
-     <div class="company_details">
-         <p>Bin Nie got her PHD from <a target="_blank" href="http://www.wm.edu/as/computerscience/">Department of Computer Science</a> 
-        at the <a target="_blank" href="http://www.wm.edu/">College of William and Mary</a>, under the supervision of <a target="_blank" href="http://www.cs.wm.edu/~esmirni/"> 
-        Prof. Evgenia Smirni</a>. Before joining W&M, she received her bachelor degree in Software Engineering from <a target="_blank" href="http://www.xmu.edu.cn/">Xiamen University</a> in 2012,
-        and master degree in Computer Science from <a target="_blank" href="http://www.fordham.edu/site/index.php">Fordham University</a> in 2014. 
-        Her research interests include GPGPU Reliability, Machine Learning, Time Series Analysis, Data Analysis, 
-        Heterogeneous System Logs Analysis (HPC, Data Centers, IT systems), Natural Language Processing, and Performance Advertising.
-        </p>
-    </div>
- </div>
+## Background
+
+Bin Nie got her PHD from [Department of Computer Science](http://www.wm.edu/as/computerscience/)
+at the [College of William and Mary](http://www.wm.edu/), under the supervision of [Prof. Evgenia Smirni]("http://www.cs.wm.edu/~esmirni/"). 
+Before joining W&M, she received her bachelor degree in Software Engineering from [Xiamen University](http://www.xmu.edu.cn/) in 2012,
+and master degree in Computer Science from [Fordham University](http://www.fordham.edu/site/index.php) in 2014. 
+Her research interests include GPGPU Reliability, Machine Learning, Time Series Analysis, Data Analysis, 
+Heterogeneous System Logs Analysis (HPC, Data Centers, IT systems), Natural Language Processing, and Performance Advertising.
+
+
+## Skills
+- **Programming Languages**: Python, Java, C/C++, SQL, Matlab, C#, Shell, SQL
+- **Open Source Tools:** TensorFlow, PyTorch, Scikit-learn, LibSVM/LibLinear, Pandas, GPGPU-Sim
  
- <!-- Skills -->
- <div class="skills">
-     <h2 class="clr0">Skills</h2>
-     <div class="skill_list">
-             <ul>
-                <li><b>Programming Languages:&emsp;  </b>Python, Java, C/C++, SQL, Matlab, C#, Shell, SQL</li>
-              <li><b>Open Source Tools:&emsp;  </b>TensorFlow, PyTorch, Scikit-learn, LibSVM/LibLinear, Pandas, GPGPU-Sim</li>
-             </ul>
-         <div class="clearfix"></div>
-     </div>
- </div>
+
+## Professional Experience
+-  2018/5 - 2018/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>                
+- 2017/5 - 2017/8 Research Intern, NEC Labs America <small>Princeton, NJ</small>
+- 2016/5 - 2016/8 Research Intern, Hewlett Packard Enterprise <small>Palo Alto, CA</small>
+- 2015/5 - 2015/8 Research Intern, Oak Ridge National Laboratory <small>Oak Ridge, TN</small>
+- 2014/8 - 2019/5 Research Assistant, College of William and Mary <small>Williamsburg, VA</small>
+- 2012/8 - 2014/5 Research Assistant, Fordham University <small>New York, NY</small>
+
+
+## Publications
+
+### Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications<span> [[PDF](publications/2018MICRO.pdf)]
+**Bin Nie**, Lishan Yang, Adwait Jog, and Evgenia Smirni
+
+In the Proceedings of 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018
+
+(Acceptance rate ≈ 21%)
+     
+### Machine Learning Models for GPU Error Prediction in a Large Scale HPC System [[PDF](publications/2018DSN.pdf)]
+**Bin Nie**, Ji Xue, Saurabh Gupta, Tirthak Patel, Christian Engelmann, Evgenia Smirni, and Devesh Tiwari
+
+In the 48th International Conference on Dependable Systems and Networks (DSN), Luxembourg City, Luxembourg, June 2018
+
+(Acceptance rate ≈ 25%)
+
+
+### Fill-in the Gaps: Spatial-Temporal Models for Missing Data [[PDF](publications/2017CNSM.pdf)]
+Ji Xue, **Bin Nie**, and Evgenia Smirni
+
+In the 13th International Conference on Network and Service Management (CNSM), Tokyo, Japan, November 2017
+
+(Acceptance rate ≈ 17.6%)
+
+### Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities [[PDF](publications/2017MASCOTS.pdf)]
+**Bin Nie**, Ji Xue, Saurabh Gupta, Christian Engelmann, Evgenia Smirni, and Devesh Tiwari
+
+In the 25th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), Banff, AB, Canada, September 2017
+
+(Acceptance rate ≈ 30.9%)
  
- <!-- Professional Experience -->
- <div class="skills">
-     <h2 class="clr0">Professional Experience</h2>
-     <div class="skill_list">
-             <ul>
-                <li>2018/5 - 2018/8 <tab1/> Research Intern, NEC Labs America <span>Princeton, NJ</span></li>                   
-                <li>2017/5 - 2017/8 <tab1/> Research Intern, NEC Labs America <span>Princeton, NJ</span></li>
-                <li>2016/5 - 2016/8 <tab1/> Research Intern, Hewlett Packard Enterprise <span>Palo Alto, CA</span></li>
-                <li>2015/5 - 2015/8 <tab1/> Research Intern, Oak Ridge National Laboratory <span>Oak Ridge, TN</span></li>
-                <li>2014/8 - Present <tab2/> Research Assistant, College of William and Mary <span>Williamsburg, VA</span></li>
-                <li>2012/8 - 2014/5 <tab1/> Research Assistant, Fordham University <span>New York, NY</span></li>
-             </ul>
-         <div class="clearfix"></div>
-     </div>
- </div>
- 
- <!-- Publications -->
- <div class="education">
-     <h2 class="clr0" id="pub">Publications</h2>
-     <div class="education_details">
-         <h3>Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications<span> [<a target="_blank" href="publications/2018MICRO.pdf">PDF</a>]</span></h3>
-         <p><b>Bin Nie</b>, Lishan Yang, Adwait Jog, and Evgenia Smirni</p>
-         <p>In the Proceedings of 51st International Symposium on Microarchitecture (MICRO), Fukuoka, Japan, October 2018</p>
-         <p class="cmpny2">(Acceptance rate ≈ 21%) (to appear)</p>
-     </div>
-     <div class="education_details">
-         <h3>Machine Learning Models for GPU Error Prediction in a Large Scale HPC System<span> [<a target="_blank" href="publications/2018DSN.pdf">PDF</a>]</span></h3>
-         <p><b>Bin Nie</b>, Ji Xue, Saurabh Gupta, Tirthak Patel, Christian Engelmann, Evgenia Smirni, and Devesh Tiwari</p>
-         <p>In the 48th International Conference on Dependable Systems and Networks (DSN), Luxembourg City, Luxembourg, June 2018</p>
-         <p class="cmpny2">(Acceptance rate ≈ 25%)</p>
-     </div>
-     <div class="education_details">
-         <h3>Fill-in the Gaps: Spatial-Temporal Models for Missing Data
-            <span>[<a target="_blank" href="publications/2017CNSM.pdf">PDF</a>]</span></h3>
-         <p>Ji Xue, <b>Bin Nie</b>, and Evgenia Smirni</p>
-         <p>In the 13th International Conference on Network and Service Management (CNSM), Tokyo, Japan, November 2017</p>
-         <p class="cmpny2">(Acceptance rate ≈ 17.6%)</p>
-     </div>
-     <div class="education_details">
-         <h3>Characterizing Temperature, Power, and Soft-Error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities
-            <span>[<a target="_blank" href="publications/2017MASCOTS.pdf">PDF</a>]</span></h3>
-         <p><b>Bin Nie</b>, Ji Xue, Saurabh Gupta, Christian Engelmann, Evgenia Smirni, and Devesh Tiwari</p>
-         <p>In the 25th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), Banff, AB, Canada, September 2017</p>
-         <p class="cmpny2">(Acceptance rate ≈ 30.9%)</p>
-     </div>
-     <div class="education_details">
-         <h3>A Large-Scale Study of Soft-Errors on GPUs in the Field
-            <span>[<a target="_blank" href="publications/2016_HPCA_GPU_Soft_Errors.pdf">PDF</a>]</span></h3>
-         <p><b>Bin Nie</b>, Devesh Tiwari, Saurabh Gupta, Evgenia Smirni, and James H. Rogers</p>
-         <p>In the 22nd IEEE International Symposium on High Performance Computer Architecture (HPCA), Barcelona, Spain, March 2016</p>
-         <p class="cmpny2">(Acceptance rate ≈ 22%)</p>
-     </div>
-     <div class="education_details">
-         <h3>Leveraging Online Social Friendship to Improve Data Swarming Performance</h3>
-         <p>Honggang Zhang, Benyuan Liu, <b>Bin Nie</b>, Zhiyong Xu, Xiayin Weng, and Chao Yu</p>
-         <p class="cmpny2">Computer Networks, 2014</p>
-     </div>
-     <div class="education_details">
-         <h3>Social Interaction Based Video Recommendation: Recommending YouTube Videos to Facebook Users
-            <span>[<a target="_blank" href="publications/2014_GI_Social_Recommend.pdf">PDF</a>]</span></h3>
-         <p><b>Bin Nie</b>, Honggang Zhang, and Yong Liu</p>
-         <p class="cmpny3">In 2014 Proceedings IEEE INFOCOM Workshops, Toronto, ON, Canada, April 2014.</p>
-         <!-- <p class="cmpny3">(Acceptance rate ≈ 38%)</p> -->
-     </div>
- </div>
- 
+### A Large-Scale Study of Soft-Errors on GPUs in the Field [[PDF](publications/2016_HPCA_GPU_Soft_Errors.pdf)]
+**Bin Nie**, Devesh Tiwari, Saurabh Gupta, Evgenia Smirni, and James H. Rogers
+
+In the 22nd IEEE International Symposium on High Performance Computer Architecture (HPCA), Barcelona, Spain, March 2016
+
+(Acceptance rate ≈ 22%)
+
+### Leveraging Online Social Friendship to Improve Data Swarming Performance
+Honggang Zhang, Benyuan Liu, **Bin Nie**, Zhiyong Xu, Xiayin Weng, and Chao Yu
+
+Computer Networks, 2014
+    
+### Social Interaction Based Video Recommendation: Recommending YouTube Videos to Facebook Users [[PDF](publications/2014_GI_Social_Recommend.pdf)]
+**Bin Nie**, Honggang Zhang, and Yong Liu
+     
+In 2014 Proceedings IEEE INFOCOM Workshops, Toronto, ON, Canada, April 2014
+
+(Acceptance rate ≈ 38%
+     
  <!-- Research Projects -->
 <h2 class="clr0" id="proj">Research Projects</h2>
 
