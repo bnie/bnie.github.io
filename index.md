@@ -1,6 +1,5 @@
 # Bin Nie
 
-<div class="content">
  <!-- Background -->
  <div class="company">
      <h2 class="clr0">Background</h2>
@@ -105,10 +104,10 @@
     <li>Built an error-injection model to investigate error resilience features for GPGPU applications</li> 
     <li>Reduced the number of error sites by more than 90% per error-injection campaign for fast and accurate reliability analysis</li>
 </ul>
-<h4 class="cmpny5">Project #2:<tab3/>
+<h4>Project #2:<tab3/>
     <span>GPGPU Reliability Analysis at the System Level</span>
 </h4>
-<ul class="cmpny1">  <!-- If not the last project, remove class=cmpny1 -->
+<ul class="skill_list">  <!-- If not the last project, remove class=cmpny1 -->
     <li>Analyzed the impact of temperature/power on GPU single-bit errors (SBEs) in the Titan supercomputer</li>    
     <li>Developed ML-based prediction models for effective reliability prediction</li>
     <li>Designed a similarity-based sample reduction model to address the imbalanced data set problem</li>
@@ -116,7 +115,7 @@
 
  <h3>Research Intern at System Research, NEC Labs America (May 2018 - August 2018)
  <p>Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a></p>
- <ul class="cmpny1">
+ <ul class="skill_list">
     <li>Conducted knowledge discovery and anomaly detection in large scale discrete event sensor time series</li>
     <li>Identified and analyzed system pairwise invariant relationship with deep learning neural machine translation (seq2seq model) technology</li>
     <li>Delivered system anomaly detection and fault diagnosis based on invariant graph leveraging global and local connection relationships</li>
@@ -124,21 +123,21 @@
 
  <h3>Research Intern at System Research, NEC Labs America (May 2017 - August 2017)
     <p>Mentor: <a target="_blank" href="http://www.nec-labs.com/jianwu-xu/">Dr. Jianwu Xu</a> and <a target="_blank" href="http://www.nec-labs.com/~huizhang/">Dr. Hui Zhang</a></p>
- <ul class="cmpny1">
+ <ul class="skill_list">
     <li>Designed a predictive analytics framework for a large scale, complex cloud computing system based on a LSTM model and natural language processing for heterogeneous system logs</li>
     <li>Built a unique local linear surrogate model to predict system failure and associated causalities for interpreting black box AI results</li>
 </ul>
 
  <h3>Research Intern at Analytics Lab, Hewlett Packard Enterprise (HPE) (May 2016 - August 2016)
     <p>Mentor: <a target="_blank" href="http://alumni.cs.ucr.edu/~mkafai/">Dr. Mehran Kafai</a> and <a target="_blank" href="https://www.linkedin.com/in/kave-eshghi-0800204">Dr. Kave Eshghi</a></p>
- <ul class="cmpny1">
+ <ul class="skill_list">
     <li>Evaluated the effects of various feature engineering and machine learning models for click-through rate prediction</li>                 
     <li>Developed a linear model utilizing CROHash and Logistic Regression on TF-IDF weighted categorical data</li>
 </ul>
 
  <h3>Research Intern at Oak Ridge National Laboratory (ORNL) (May 2015 - August 2015)
     <p>Mentor: <a target="_blank" href="http://www.ece.neu.edu/people/tiwari-devesh">Dr. Devesh Tiwari</a></p>
- <ul class="cmpny1">
+ <ul class="skill_list">
     <li>Led a large-scale characterization study of soft-errors on GPU nodes on the <a target="_blank" href="https://www.olcf.ornl.gov/titan/">Titan</a>* supercomputer</li>
     <li>Investigated performance on soft-error-affected and error-free GPU nodes</li>
     <li>Studied temporally-varying user/application behaviors and their indications on errors</li>
@@ -148,7 +147,7 @@
 
  <h3>Research Assistant, Fordham University (August 2012 - May 2014)
     <p>Advisor: <a target="_blank" href="http://eng.umb.edu/~hzhang/">Prof. Honggang Zhang</a></p>
- <ul class="cmpny2">
+ <ul class="skill_list">
     <li>Analyzed how social interactions on Facebook relate to video popularity on YouTube</li>
     <li>Designed a social-interaction-based video recommendation algorithm and improved accuracy by 25%</li>
     <li>Built a crawling platform (for data retrieval from Facebook & YouTube) and social network analysis modules</li>
@@ -171,5 +170,3 @@
  </div>
  
  <p>Last updated in March, 2020</p>
-
-</div>
